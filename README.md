@@ -56,4 +56,3 @@ Then open your browser and go to:
 ---
 
 That’s it! Let the counter do the work for you 🙌
-```
